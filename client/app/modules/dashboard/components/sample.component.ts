@@ -1,8 +1,8 @@
 import { Component } from "@angular/core"
 
 @Component({
-    selector: "test",
-    template: "<h1>sasasasas </h1>"
+    selector: "sompo-dash",
+    template: "<h1>Sample Data </h1>"
 })
 
 export class TestComponent {}

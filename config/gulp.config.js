@@ -50,7 +50,7 @@ module.exports = {
 		separateDest: {
 			appDest: './app-dev',
 			sassDest: './app-dev/styles',
-			typescriptDest: './app-dev',
+			typescriptDest: './app-dev/client',
 			staticSrc: [
                 './*.html',
                 './systemjs.config.js',
@@ -85,7 +85,7 @@ module.exports = {
 		vendorJsDest: './dist/src',
 		aotTempDest: './app-aot',
 
-		appAotDest: 'app.aot.js', // must coincide with 'dest' property in aot-rollup-config.js
+		appAotDest: 'app.aot.js', 
 		appBundleDest: 'app.min.js',
 		vendorBundleDest: 'vendor.min.js',
 
