@@ -1,0 +1,6 @@
+/node_modules/
+/typings/
+
+/client/src/vendor/
+/client/**/*.js
+/client/**/*.css
