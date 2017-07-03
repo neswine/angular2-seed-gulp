@@ -89,10 +89,10 @@ module.exports = {
 		appBundleDest: 'app.min.js',
 		vendorBundleDest: 'vendor.min.js',
 
-		htmlSrc: './app/index.html',
+		htmlSrc: './index.html',
 		htmlDest: './dist',
 
-		staticBase: './app',
+		staticBase: './client/app',
 		staticSrc: [
 			'./app/assets/**/*'
 		],

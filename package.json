@@ -1,7 +1,7 @@
 {
-    "name": "sompo_web",
+    "name": "angular2-seed-gulp",
     "version": "1.0.0",
-    "description": "Web Analytics Dashboard for Sompo",
+    "description": "Sample",
     "scripts": {
         "aot": "node node_modules/.bin/ngc -p tsconfig-aot.json",
         "aot-win": "node_modules/.bin/ngc -p tsconfig-aot.json",
